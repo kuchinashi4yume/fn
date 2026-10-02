@@ -28,6 +28,8 @@
 - Node.js 22+
 - Ollama
 
+<br>
+
 ## 3. Installation & Usage
 
 ### Step 1: Add alias to your shell profile (`~/.zshrc` or `~/.bashrc`)
