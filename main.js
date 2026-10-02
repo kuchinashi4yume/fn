@@ -9,7 +9,7 @@ const { execSync } = require('node:child_process');
         process.exit(1);
     }
 
-    const url = 'http://172.30.1.19:11434/api/chat';
+    const url = 'http://127.0.0.1:11434/api/chat';
 
     try {
         const res = await fetch(url, {
